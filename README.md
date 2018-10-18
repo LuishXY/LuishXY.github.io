@@ -1,2 +1,8 @@
-# LuishXY.github.io
-Testing website
+# Production Website for Byouka.com 
+
+# Includes:
+  - Home
+  - Artists 
+  - Services
+  - Contact 
+  - Visuals
